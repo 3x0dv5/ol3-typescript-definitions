@@ -1,4 +1,4 @@
-# ol3-typescript-definitions
+# ol3-typescript-definitions (ol.3.1.1)
 Typescript definitions for OpenLayers 3.
 
 These definitions were done using https://github.com/fivetran/typescript-closure-tools and a big amount of manual work.
