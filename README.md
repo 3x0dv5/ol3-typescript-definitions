@@ -1,6 +1,8 @@
 # ol3-typescript-definitions
 Typescript definitions for OpenLayers 3
+These definitions were done using https://github.com/fivetran/typescript-closure-tools and a big amount of manual work.
 
+# git submodule update
 After cloning as follows (you may change to clone from your fork): 
 ```
 C:\github\> git clone https://github.com/3x0dv5/ol3-typescript-definitions.git 
