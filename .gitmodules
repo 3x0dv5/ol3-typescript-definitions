@@ -1,0 +1,3 @@
+[submodule "lib/definitely-typed"]
+	path = lib/definitely-typed
+	url = https://github.com/fivetran/DefinitelyTyped.git
