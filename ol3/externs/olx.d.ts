@@ -1,4 +1,4 @@
-/// <reference path="../../closure-library/closure/goog/vec/mat4.d.ts" />
+/// <reference path="../../lib/definitely-typed/closure-library/closure/goog/vec/mat4.d.ts" />
 
 declare module olx {
 
